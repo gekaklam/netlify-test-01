@@ -6,7 +6,10 @@ interests:
   - Lindy Hop
   - Bouldering
   - Books
-social: []
+social:
+  - link: https://github.com/gekaklam/
+    icon_pack: fab
+    icon: github
 organizations:
   - name: CERN
     url: https://home.cern/
